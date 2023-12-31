@@ -10,14 +10,14 @@
 	<description>Protocol modules and SDK for numerous protocols 'aggregator'
 		and 'parent' POM</description>
 	<modules>
-		<module>protocol-pack-core</module>
-		<module>protocol-pack-web</module>
 		<module>protocol-pack-api</module>
+		<module>protocol-pack-web</module>
 	</modules>
 
 	<properties>
 		<parent.project>${project.artifactId}</parent.project>
 		<jnetruntime.version>0.0.1-SNAPSHOT</jnetruntime.version>
+		<protocol-sdk.version>0.0.1-SNAPSHOT</protocol-sdk.version>
 
 		<jdk.version>21</jdk.version>
 		<project.build.sourceEncoding>${java.encoding}</project.build.sourceEncoding>
