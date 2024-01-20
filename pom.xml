@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.slytechs.jnet.protocol</groupId>
 	<artifactId>protocol-pack-sdk-parent</artifactId>
-	<version>0.10.0</version>
+	<version>0.11.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Protocol Pack SDK - Parent POM</name>
 	<description>Protocol modules and SDK for numerous protocols 'aggregator'
